@@ -1,0 +1,1 @@
+this is java git jenkins integaretioj demo
