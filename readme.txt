@@ -1,1 +1,1 @@
-this is java git jenkins integaretioj demo
+this is java git jenkins integation demo
